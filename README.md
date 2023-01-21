@@ -1,2 +1,2 @@
 # Pyspace
-# It's just hello, world!
+It's just hello, world!
